@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "application": "ru.sproutmetry.game",
+  "store": "googleplay",
+  "adsEnabled": false
+}
